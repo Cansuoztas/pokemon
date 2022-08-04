@@ -1,2 +1,2 @@
 # pokemon
-[click] (https://cansuoztas.github.io/pokemon/)
+[click](https://cansuoztas.github.io/pokemon/)
